@@ -157,11 +157,7 @@ public static void getNumbers(String words)
 	}
 }
 
-private boolean isStoredNumber(String currentWord) 
-{
-	//return numberString.containsKey(currentWord);
-	return true;
-} 
+
 
 public static void matchString(String words)
 { 
